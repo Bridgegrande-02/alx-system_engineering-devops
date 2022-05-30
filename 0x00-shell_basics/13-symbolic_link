@@ -1,0 +1,2 @@
+ln -s /bin/ls __ls__
+ln -s 13-symbolic_link _ls_
